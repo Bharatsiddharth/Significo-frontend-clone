@@ -1,3 +1,17 @@
+:root{
+    --black: #000;
+    --salmon: #ef8d71;
+    --white: #fff;
+    --syan: #AEDEE0;
+    --dsalmon: rgb(110, 30, 30);
+    --dcyan: color: #1f2f32;
+    
+}
+
+*::selection{
+    background-color: #ef8d71;
+}
+
 body[theme="black"]{
     background-color: black;
 }
