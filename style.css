@@ -8,6 +8,14 @@
     
 }
 
+body{
+    transition: background-color ease-in-out .5s;
+}
+
+.video-div{
+    clip-path: circle(var(--clip) at 50% 50%);
+}
+
 *::selection{
     background-color: #ef9d71;
     color: var(--dsalmon);
