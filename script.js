@@ -1,7 +1,7 @@
 
-    (function () {
-        const locomotiveScroll = new LocomotiveScroll();
-    })();
+        (function () {
+            const locomotiveScroll = new LocomotiveScroll();
+        })();
 
 
 
